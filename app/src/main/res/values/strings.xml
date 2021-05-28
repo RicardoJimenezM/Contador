@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contador</string>
+
+    <!-- activity_main. -->
+
+    <string name="welcome_button_counter">GET STARTED</string>
+    <string name="welcome_description_counter">Description Counters</string>
+    <string name="welcome_title_counter">Counters</string>
+
+    <!-- activity_counters -->
+
+    <string name="counters_quantity_items_label"> cantidad de Item</string>
+    <string name="counters_quantity_items_times_label"></string>
+    <string name="counter_button_add_counter">ADD COUNTER</string>
+
+    <!-- item_counter-->
+
+    <string name="counter_item_name">Cups of coffe</string>
+
+</resources>

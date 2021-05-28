@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="padding_25dp">25dp</dimen>
+    <dimen name="padding_22dp">22dp</dimen>
+
+    <dimen name="margin_48dp">48dp</dimen>
+    <dimen name="margin_7dp">7dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+
+    <!-- tamaño fuente -->
+    <dimen name="front_22sp">22sp</dimen>
+    <dimen name="front_17sp">17sp</dimen>
+
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729251765403",
+    "project_id": "contador25-772a5",
+    "storage_bucket": "contador25-772a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729251765403:android:9ad38ac44ff60cf725ba3e",
+        "android_client_info": {
+          "package_name": "com.ricardo.contador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729251765403-n4c7tullsikiat7ghmubk5208md4omgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWq6w0zv8Dq4HJ_ndFIoFmfIjb-gfe-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729251765403-n4c7tullsikiat7ghmubk5208md4omgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
